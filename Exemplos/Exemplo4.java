@@ -11,13 +11,3 @@ public class Exemplo4 {
     }
 }
 
-while ( d > 1) { 
-  b[x] = d % 2; 
-  d = d/2;
-  x++;
-} 
- 
- 
-for (int cont=b.length-1; cont>=0; cont--){
-    System.out.print(b[cont]);
-}
